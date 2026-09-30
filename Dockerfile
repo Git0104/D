@@ -1,5 +1,2 @@
-FROM lscr.io/linuxserver/chromium:latest
+FROM ghcr.io/spuntodotnet/browser-remote:latest
 
-ENV TZ=Asia/Tokyo
-
-EXPOSE 3001
